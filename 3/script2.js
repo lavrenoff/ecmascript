@@ -52,7 +52,7 @@ class Product {
     }
 }
 
-const order = new Order(12345);
+const order = new Order(11111);
 
 const product1 = new Product("Nissan", 5000);
 order.addProduct(product1);
